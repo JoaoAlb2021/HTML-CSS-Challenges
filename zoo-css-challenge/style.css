@@ -107,7 +107,9 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid #747c92;
+  border: 5px solid #266266;
+  padding: 5px;
+  margin-bottom: 15px;
 }
 
 .image-container img:first-of-type {

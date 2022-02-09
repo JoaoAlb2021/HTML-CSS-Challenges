@@ -105,7 +105,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
   transition: background-color 1s;
 
@@ -113,7 +113,6 @@ footer {
   justify-content: center;
   align-content: center;
   flex-direction: column;
-  margin: 0 0 60% 0;
 }
 
 #badge:hover {
@@ -123,6 +122,7 @@ footer {
 #badge p {
   text-align: center;
   font-size: 125%;
+  line-height: 100%;
 }
 
 .image-container img {
